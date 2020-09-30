@@ -1,5 +1,7 @@
 # Module 4 Final Project Pneumonia Classification
 
+
+
 ## Introduction
 
 This repo contains a Pneumonia Classification on a dataset from Guanghzo.
@@ -10,7 +12,18 @@ A healthcare software company has found a target market in classifying pneumonia
 
 We will use deep learning to classify the chest x-rays into normal or pneumonia.
 
+
 ## Contents
+
+chest_xray                  - Directory with three directories(train, test, val) each with 2 subdirectories
+
+conf_matrix.png             - .png file of a confusion matrix
+
+confusion_matrix_normalized - .png file of a normalized confusion matrix
+
+Pneumonia Classification    - .pdf file with a presentation of this project
+
+
 
 ## Summary
 
@@ -24,10 +37,11 @@ We will use deep learning to classify the chest x-rays into normal or pneumonia.
 
 5. Determine accuracy, recall, precision of the model. Which metrics do we use to determine how well the model works? For cass were we would like to prevent false negatives, the recall score is most important.
 
-The Confusion matrix below illustrates the true positive, false positive, true negative, and false negatives of the resulting predictions.
+The Confusion matrix below illustrates the true positive, false positive, true negative, and false negatives of the resulting predictions:
 
-![alttext] 
+![alttext](https://github.com/jefferyrosario/Module-4-Project/blob/master/conf_matrix.PNG)
+
 
 ## Conclusion 
 
-CNN models yielded a 93% overall accuracy, with a 96% recall rate on positive cases. # Module-4-Project
+CNN models yielded a 93% overall accuracy, with a 96% recall rate on positive cases. 
