@@ -30,4 +30,4 @@ The Confusion matrix below illustrates the true positive, false positive, true n
 
 ## Conclusion 
 
-CNN models yielded a 93% overall accuracy, with a 96% recall rate on positive cases. # Module-4-Project
+CNN models yielded a 93% overall accuracy, with a 96% recall rate on positive cases. The CNN model also had a very high recall of 98%. This is important as we do not want to miss an cases with pnuemonia. Software GUI can be combined with data science to produce a classifier that can determine whether a person has pneumonia. There are limitations on this project. The dataset is comprised of only females aged 1-5 and only in on region of the world.
