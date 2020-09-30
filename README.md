@@ -26,7 +26,7 @@ We will use deep learning to classify the chest x-rays into normal or pneumonia.
 
 The Confusion matrix below illustrates the true positive, false positive, true negative, and false negatives of the resulting predictions.
 
-![alttext] 
+![alttext](https://github.com/jefferyrosario/Module-4-Project/blob/master/confusion_matrix_normalized.PNG) 
 
 ## Conclusion 
 
